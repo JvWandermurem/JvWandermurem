@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner -->
-  <img src="https://i.ibb.co/pKdVwF5/cyberpunk-banner-purple.gif" width="100%" alt="Cybercore Banner"/>
+  <img src="img/banner.gif" width="100%" alt="Cybercore Banner"/>
 </div>
 
 <h1 align="center">
@@ -107,5 +107,6 @@
 ---
 
 <div align="center">
-  <i>"Explorando os limites entre hardware e software ⚡"</i>
+  <!-- Banner -->
+  <img src="img/hunter.gif" width="50%" alt="Cybercore Banner"/>
 </div>
