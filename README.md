@@ -106,7 +106,3 @@
 
 ---
 
-<div align="center">
-  <!-- Banner -->
-  <img src="img/hunter.gif" width="50%" alt="Cybercore Banner"/>
-</div>
