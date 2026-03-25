@@ -64,7 +64,7 @@
 
 ---
 
-## 📂 Projetos em Destaque  
+## 📂 Projetos  
 
 -  [Bootloader](#)  
 - [CPU 8 Bits](#)  
